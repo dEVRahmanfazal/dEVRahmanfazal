@@ -1,12 +1,12 @@
 <h1 align="center">Hello there 👋, I'm Rahman Fazal</h1>
-<h3 align="center">Data analyst leveraging statistical techniques and analytical tools to transform complex data into actionable insights.</h3>
+<h3 align="center">Full Stack developer with complex skills  </h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahmanfazal&label=Profile%20views&color=0e75b6&style=flat" alt="devrahmanfazal" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **C++ with Data structures and Algorithms**
 
-- 💬 Ask me about **Microsoft PowerBI**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 Reach me at **official.rahmanfazal@gmail.com**
 
