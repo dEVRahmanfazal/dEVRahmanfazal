@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrahmanfazal&label=Profile%20views&color=0e75b6&style=flat" alt="devrahmanfazal" /> </p>
 
-- 🌱 I’m currently learning **C++ with Data structures and Algorithms**
+- 🌱 I’m currently learning **Javascript and ReactJS**
 
 - 💬 Ask me about **Frontend Development**
 
